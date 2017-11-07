@@ -1,1 +1,5 @@
-VOici un repo forké avec un README inutil où je ne sais pas quoi mettre
+<<<<<<< HEAD
+Recette de pizza
+=======
+
+Trouvez ci-joint les meilleures recettes de pizzas
