@@ -1,5 +1,6 @@
 pate
 tomates
-mozarella
+mozzarella
 basilic
+olive
 champignon
